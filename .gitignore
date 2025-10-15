@@ -1,0 +1,33 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints
+.notebooks/
+*.ipynb_save
+*.nbconvert/
+
+# Data
+data/
+!data/.gitkeep
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Dev Containers
+.devcontainer/.env
+.devcontainer/local.env
+
+# System / misc
+.DS_Store
+Thumbs.db
+*.log
