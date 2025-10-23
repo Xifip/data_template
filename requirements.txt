@@ -3,3 +3,5 @@ seaborn
 matplotlib
 jupyter
 ipykernel
+pydytuesday
+chardet
